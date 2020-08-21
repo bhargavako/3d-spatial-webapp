@@ -1,2 +1,5 @@
 # 3d-spatial-webapp
-This is the main core page for the web app. 
+
+The 3D web app is built to project the fiscal analysis city/counties withen the USA. The data is hosted through a 
+postgresql server and the hosted on the shiny server. 
+
